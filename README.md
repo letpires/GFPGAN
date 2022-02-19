@@ -44,7 +44,7 @@ Afim de teste, eu apliquei a ferramenta em uma foto minha de quando era criança
 
 - A documentação do projeto e ferramenta vocês podem encontrar [nesse link](https://xinntao.github.io/projects/gfpgan)
 - O repositório da ferramenta está [nesse link](https://github.com/TencentARC/GFPGAN)
-- O banco de dados utilizado para inferência é o FFHQ, e pode ser acessado [nesse link]
+- O banco de dados utilizado para inferência é o FFHQ, e pode ser acessado [nesse link](https://github.com/NVlabs/ffhq-dataset)
 - Aqui etá o código que eu gerei no [Google Colab](https://github.com/letpires/GFPGAN/blob/main/GFPGAN.ipynb)
 - E por fim, caso não queira utilizar código, pode usar essa [INTERFACE](https://refineryai.com/) que utiliza o GFP-GAN por trás, para corrigir suas fotos.
 
