@@ -6,7 +6,7 @@
   O que são GANs? E como usar GFP-GAN pra melhorar uma foto? 
 </h2>
 
-[Nesse vídeo](https://www.youtube.com/channel/UC7C3taM54q4rsEIDPFNVsLg) eu vou mostrar para vocês o que são as Redes Adversárias Generativas (GANs) e como converter uma imagem borrada em imagem de qualidade com GFP-GAN, como na imagem acima.
+[Nesse vídeo](https://www.youtube.com/watch?v=DsrfCIXaRio&ab_channel=Let%C3%ADciaPires) eu vou mostrar para vocês o que são as Redes Adversárias Generativas (GANs) e como converter uma imagem borrada em imagem de qualidade com GFP-GAN, como na imagem acima.
 
 ## 🧠 O que são as GANs?
 
@@ -42,11 +42,11 @@ O GFP-GAN vem pré-treinado no conjunto de dados FFHQ, que consiste em cerca de 
 
 Afim de teste, eu apliquei a ferramenta em uma foto minha de quando era criança que continha ruído e desfoque.
 
-- A documentação do projeto e ferramenta vocês podem encontrar [nesse link]()
-- O repositório da ferramenta está [nesse link]
+- A documentação do projeto e ferramenta vocês podem encontrar [nesse link](https://xinntao.github.io/projects/gfpgan)
+- O repositório da ferramenta está [nesse link](https://github.com/TencentARC/GFPGAN)
 - O banco de dados utilizado para inferência é o FFHQ, e pode ser acessado [nesse link]
 - Aqui etá o código que eu gerei no [Google Colab](https://github.com/letpires/GFPGAN/blob/main/GFPGAN.ipynb)
-- E por fim, caso não queira utilizar código, pode usar essa interface que utiliza o GFP-GAN por trás, para corrigir suas fotos.
+- E por fim, caso não queira utilizar código, pode usar essa [INTERFACE](https://refineryai.com/) que utiliza o GFP-GAN por trás, para corrigir suas fotos.
 
 ---
 
